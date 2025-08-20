@@ -18,24 +18,24 @@ Here I've attempted to document a comprehensive set of lists of all components i
     - [Utilities / Observers](#utilities--observers)
     - [Design & Theming](#design--theming)
     - [Takeaways](#takeaways)
-3. [Web Awesome Free vs Pro Components Table](#-web-awesome-free-vs--pro-components-table)
-    - [At a Glance](#-at-a-glance)
+3. [Web Awesome Free vs Pro Components Table](#web-awesome-free-vs-pro-components-table)
+    - [At a Glance](#at-a-glance)
 4. [Web Awesome Free vs. Pro Components Chart](#web-awesome-free-vs-pro-components-chart)
     - [Visual Chart](#visual-chart)
     - [Data Visualization & Collaboration Indicators](#data-visualization--collaboration-style-indicators-feedback--indicators)
 5. [Free Components, Categorized](#free-components-categorized)
     - [Form Controls](#form-controls)
-    - [Layout & Structure](#layout--structure-1)
-    - [Feedback & Indicators](#feedback--indicators-1)
-    - [Utilities & Observers](#utilities--observers-1)
+    - [Layout & Structure (Categorized)](#layout--structure-1)
+    - [Feedback & Indicators (Categorized)](#feedback--indicators-1)
+    - [Utilities & Observers (Categorized)](#utilities--observers-1)
     - [QR Code](#qr-code)
-    - [Key Notes](#-key-notes)
-6. [Pro Components, Categorized](#-pro-components-categorized)
-    - [App PRO](#app-pro-)
-    - [Blog & News PRO](#blog--news-pro-)
-    - [Ecommerce PRO](#ecommerce-pro-)
-    - [Layouts PRO](#layouts-pro-)
-    - [Theming / Design Tokens](#theming--design-tokens-)
+    - [Key Notes](#key-notes)
+6. [Pro Components, Categorized](#pro-components-categorized)
+    - [App PRO](#app-pro)
+    - [Blog & News PRO](#blog--news-pro)
+    - [Ecommerce PRO](#ecommerce-pro)
+    - [Layouts PRO](#layouts-pro)
+    - [Theming / Design Tokens](#theming--design-tokens)
 7. [Free Components, Alphabetical](#free-components-alphabetical)
 
 ---
@@ -44,9 +44,7 @@ Here I've attempted to document a comprehensive set of lists of all components i
 
 Here’s a **cross-mapping** of **Free vs Pro components** by category, so you can quickly see overlaps, complements, and where the Pro tier adds unique value. This is based on the official [Web Awesome Docs](https://webawesome.com/docs/) component listings.
 
-Free vs Pro Components — Category Mapping
-
-### **Forms & Inputs**
+### Forms & Inputs
 
 **Free**
 * Button, Button Group
@@ -66,7 +64,7 @@ Free vs Pro Components — Category Mapping
 Free covers the basics.  
 🟨 Pro adds **richer inputs like Combobox, Date Picker, and specialized password handling.**
 
-### **Layout & Structure**
+### Layout & Structure
 
 **Free**
 * Card
@@ -87,7 +85,7 @@ Free covers the basics.
 Free gives core primitives.  
 🟨 Pro provides **"full-page" layouts and higher-level panels/lists for application scaffolding.**
 
-### **Feedback & Indicators**
+### Feedback & Indicators
 
 **Free**
 * Badge, Tag, Callout
@@ -106,7 +104,7 @@ Free gives core primitives.
 Free = visual state indicators.  
 🟨 Pro = **data-heavy visualization & collaboration components.***
 
-### **Content & Blog / News**
+### Content & Blog / News
 
 **Free**
 * Avatar
@@ -119,7 +117,7 @@ Free = visual state indicators.
 Free doesn’t focus on CMS/blogging.  
 🟨 Pro **fills in full-site content marketing patterns.**
 
-### **Commerce**
+### Commerce
 
 **Free**
 * QR Code (indirect utility for commerce)
@@ -134,7 +132,7 @@ Free doesn’t focus on CMS/blogging.
 
 🟨 Ecommerce is **Pro-exclusive**: checkout flows, product displays, order management.
 
-### **Utilities / Observers**
+### Utilities / Observers
 
 **Free**
 * Format Bytes / Date / Number
@@ -155,7 +153,7 @@ Free doesn’t focus on CMS/blogging.
 Free gives functional DOM & format helpers.  
 🟨 Pro **layers in "business-ready" utilities like pricing, permissions, and empty-state UX.**
 
-### **Design & Theming**
+### Design & Theming
 
 **Free**
 * Core CSS variables + themes baked in
@@ -166,7 +164,7 @@ Free gives functional DOM & format helpers.
 
 🟨 Pro **gives advanced theming/design tooling and editable design assets.**
 
-### 🔎 Takeaways
+### Takeaways
 
 1. **Free = primitives**: Buttons, cards, modals, spinners, tabs, etc. Enough for most web apps.
 2. 🟨 **Pro = opinionated patterns**: Layouts, blog/e-commerce flows, data-heavy charts & grids, and advanced theming tools.
@@ -175,7 +173,7 @@ Free gives functional DOM & format helpers.
 
 ---
 
-## 🟦 Web Awesome Free vs 🟨 Pro Components Table
+## Web Awesome Free vs Pro Components Table
 
 Here’s a **feature matrix** — Free vs Pro side-by-side. I grouped by functional domain so the gaps stand out clearly.
 
@@ -189,7 +187,7 @@ Here’s a **feature matrix** — Free vs Pro side-by-side. I grouped by functio
 | **Utilities / Observers** | Format Bytes, Format Date, Format Number, Include, Mutation Observer, Resize Observer, Relative Time, Scroller, Zoomable Frame   | 🟨 Permissions, Pricing, FAQ, Empty State, Description List                                                                                                                                                          |
 | **Design & Theming**      | Core theming variables and defaults                                                                                              | 🟨 Theme Builder PRO, Figma file + plugin                                                                                                                                                                            |
 
-### 🔎 At a Glance
+### At a Glance
 
 - **Free tier** = raw building blocks (forms, dialogs, indicators, utility helpers).
 - 🟨 **Pro tier** = higher-order components (grids, charts, e-commerce flows, blog/news modules, advanced theming).
@@ -211,15 +209,19 @@ Here’s a **visual chart** comparing the **number of Free vs Pro components per
 
 It gives a quick scan of where Pro adds the most: Blog & News, Ecommerce, and Feedback & Indicators.
 
+### Visual Chart
+
 Data visualization & collaboration-style indicators (Feedback & Indicators)
 - Free gives you **UI status cues** (loading, progress, notifications).
 - 🟨 Pro expands this into **data-heavy presentation and collaborative indicators** (tables, charts, logs, rankings, comment feeds).
+
+### Data Visualization & Collaboration Style Indicators (Feedback & Indicators)
 
 ---
 
 ## Free Components, Categorized
 
-### **Form Controls**
+### Form Controls
 * Button
 * Button Group
 * Checkbox
@@ -233,7 +235,8 @@ Data visualization & collaboration-style indicators (Feedback & Indicators)
 * Slider
 * Switch
 * Textarea
-### **Layout & Structure**
+
+### Layout & Structure (Categorized)
 * Avatar
 * Breadcrumb
   * Breadcrumb Item
@@ -248,7 +251,8 @@ Data visualization & collaboration-style indicators (Feedback & Indicators)
   * Tab Panel
 * Tree
   * Tree Item
-### **Feedback & Indicators**
+
+### Feedback & Indicators (Categorized)
 * Badge
 * Callout
 * Dialog
@@ -261,7 +265,8 @@ Data visualization & collaboration-style indicators (Feedback & Indicators)
 * Spinner
 * Tag
 * Tooltip
-### **Utilities & Observers**
+
+### Utilities & Observers (Categorized)
 * Animated Image
 * Animation
 * Details
@@ -279,18 +284,21 @@ Data visualization & collaboration-style indicators (Feedback & Indicators)
 * Zoomable Frame
 * QR Code
 
-### ✅ Key Notes
+### QR Code
+
+### Key Notes
 
 * All the above are **confirmed free** (no PRO tag).
 * Most have **"Since" version info** in the docs (e.g., "Since 2.0 stable").
 * Some of the newest free additions (from changelogs) include **Scroller**, **Popover**, and **Zoomable Frame**, now merged into the main list.
 
 ---
-## 🟨 Pro Components, Categorized
+
+## Pro Components, Categorized
 
 Here are **all** the **Pro** components in the **Web Awesome** library (according to the official documentation), grouped by category. Note that the documentation does not indicate individual completion or "Since" versions for Pro components—unlike Free components—but since they’re listed in the published docs, they’re presumed implemented and completed.
 
-### App PRO 🟨
+### App PRO
 * Action Panel
 * Activity Log
 * Comments
@@ -304,7 +312,8 @@ Here are **all** the **Pro** components in the **Web Awesome** library (accord
 * Password
 * Permissions
 * Pricing
-### Blog & News PRO 🟨
+
+### Blog & News PRO
 * Banners
 * Call To Action
 * Category List
@@ -323,7 +332,8 @@ Here are **all** the **Pro** components in the **Web Awesome** library (accord
 * Social Share
 * Teams
 * Testimonials
-### Ecommerce PRO 🟨
+
+### Ecommerce PRO
 * Category Filter
 * Category Preview
 * Checkout Form
@@ -335,11 +345,13 @@ Here are **all** the **Pro** components in the **Web Awesome** library (accord
 * Product Preview
 * Product Reviews
 * Shopping Cart
-### Layouts PRO 🟨
+
+### Layouts PRO
 * Ecommerce (layout)
 * App (layout)
 * Blog (layout)
-### Theming / Design Tokens 🟨
+
+### Theming / Design Tokens
 * Theme Builder PRO (tool for creating custom themes)
   
 ---
@@ -404,4 +416,3 @@ From the official documentation (Components list), here's every enabled componen
 - Tree
 - Tree Item
 - Zoomable Frame
-
