@@ -30,7 +30,7 @@ Free vs Pro Components — Category Mapping
 * Password (App Pro) 🟨
 * File Input (upcoming) 🟨
 
-Free covers the basics. 
+Free covers the basics.  
 🟨 Pro adds **richer inputs like Combobox, Date Picker, and specialized password handling.**
 
 ### **Layout & Structure**
@@ -51,7 +51,7 @@ Free covers the basics.
 * Action Panel 🟨
 * Grid List 🟨
 
-Free gives core primitives.
+Free gives core primitives.  
 🟨 Pro provides **"full-page" layouts and higher-level panels/lists for application scaffolding.**
 
 ### **Feedback & Indicators**
@@ -70,7 +70,7 @@ Free gives core primitives.
 * Leaderboard 🟨
 * Toast & Toast Item (upcoming) 🟨
 
-Free = visual state indicators.
+Free = visual state indicators.  
 🟨 Pro = **data-heavy visualization & collaboration components.***
 
 ### **Content & Blog / News**
@@ -83,7 +83,7 @@ Free = visual state indicators.
 **Pro**
 * Blog & News suite: Banners, CTA, Category List, Contact, Featured Post, Footer, Grid Section, Header, Newsletter, Paywall, Post Footer, Post Header, Post List, Sign Up/Login, Numbers, Social Share, Teams, Testimonials 🟨
 
-Free doesn’t focus on CMS/blogging. 
+Free doesn’t focus on CMS/blogging.  
 🟨 Pro **fills in full-site content marketing patterns.**
 
 ### **Commerce**
@@ -119,7 +119,7 @@ Free doesn’t focus on CMS/blogging.
 * Description List 🟨
 * Intersection Observer (upcoming) 🟨
 
-Free gives functional DOM & format helpers.
+Free gives functional DOM & format helpers.  
 🟨 Pro **layers in "business-ready" utilities like pricing, permissions, and empty-state UX.**
 
 ### **Design & Theming**
@@ -173,7 +173,7 @@ Here’s a **feature matrix** — Free vs Pro side-by-side. I grouped by functio
 
 Here’s a **visual chart** comparing the **number of Free vs Pro components per category** in Web Awesome.
 
-- 🟦 **Free** = light blue
+- 🟦 **Free** = light blue  
 - 🟨 **Pro** = gold
 
 It gives a quick scan of where Pro adds the most: Blog & News, Ecommerce, and Feedback & Indicators.
