@@ -167,7 +167,9 @@ Here’s a **feature matrix** — Free vs Pro side-by-side. I grouped by functio
 
 ## Web Awesome Free vs. Pro Components Chart
 
-![[assets/Web-Awesome-Free-vs-Pro-Chart-by-Category.png]]
+<p align="center">
+  <img src="./assets/web-awesome-free-vs-pro-chart-by-category.png" alt="Web Awesome free vs Pro chart by category" width="1024">
+</p>
 
 Here’s a **visual chart** comparing the **number of Free vs Pro components per category** in Web Awesome.
 
