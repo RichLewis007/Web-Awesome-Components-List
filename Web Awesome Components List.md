@@ -6,7 +6,40 @@ Here I've attempted to document a comprehensive set of lists of all components i
 
 "Pro" components are available to those who have pre-ordered Web Awesome Pro via the [KickStarter campaign](https://www.kickstarter.com/projects/fontawesome/web-awesome).
 
+# Table of Contents
+
+1. [Web Awesome Components List](#web-awesome-components-list)
+2. [Free and Pro Components Categorized](#free-and-pro-components-categorized)
+    - [Forms & Inputs](#forms--inputs)
+    - [Layout & Structure](#layout--structure)
+    - [Feedback & Indicators](#feedback--indicators)
+    - [Content & Blog / News](#content--blog--news)
+    - [Commerce](#commerce)
+    - [Utilities / Observers](#utilities--observers)
+    - [Design & Theming](#design--theming)
+    - [Takeaways](#takeaways)
+3. [Web Awesome Free vs Pro Components Table](#-web-awesome-free-vs--pro-components-table)
+    - [At a Glance](#-at-a-glance)
+4. [Web Awesome Free vs. Pro Components Chart](#web-awesome-free-vs-pro-components-chart)
+    - [Visual Chart](#visual-chart)
+    - [Data Visualization & Collaboration Indicators](#data-visualization--collaboration-style-indicators-feedback--indicators)
+5. [Free Components, Categorized](#free-components-categorized)
+    - [Form Controls](#form-controls)
+    - [Layout & Structure](#layout--structure-1)
+    - [Feedback & Indicators](#feedback--indicators-1)
+    - [Utilities & Observers](#utilities--observers-1)
+    - [QR Code](#qr-code)
+    - [Key Notes](#-key-notes)
+6. [Pro Components, Categorized](#-pro-components-categorized)
+    - [App PRO](#app-pro-)
+    - [Blog & News PRO](#blog--news-pro-)
+    - [Ecommerce PRO](#ecommerce-pro-)
+    - [Layouts PRO](#layouts-pro-)
+    - [Theming / Design Tokens](#theming--design-tokens-)
+7. [Free Components, Alphabetical](#free-components-alphabetical)
+
 ---
+
 ## Free and Pro Components Categorized
 
 Here’s a **cross-mapping** of **Free vs Pro components** by category, so you can quickly see overlaps, complements, and where the Pro tier adds unique value. This is based on the official [Web Awesome Docs](https://webawesome.com/docs/) component listings.
