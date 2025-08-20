@@ -1,6 +1,6 @@
 # Web Awesome Components List
 
-Here I've attempted to document a comprehensive lists of all components in the Web Awesome library, free and pro, completed and upcoming. Lists include alphabeticized, categorized, and merged and categorized.
+Here I've attempted to document a comprehensive set of lists of all components in the Web Awesome library, free and pro, completed and upcoming. Lists include alphabeticized, categorized, and merged and categorized.
 
 "Free" indicates the component is provided under Web Awesome's open-source tier — the full suite of <wa-\*> custom elements without any "PRO" restrictions.
 
