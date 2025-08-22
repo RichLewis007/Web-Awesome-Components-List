@@ -11,19 +11,19 @@ Here I've attempted to document a comprehensive set of lists of all components i
 1. [Free Components, Alphabetical](#free-components-alphabetical)
 2. [Free Components, Categorized](#free-components-categorized)
     - [Form Controls](#form-controls)
-    - [Layout & Structure (Categorized)](#layout--structure-1)
-    - [Feedback & Indicators (Categorized)](#feedback--indicators-1)
-    - [Utilities & Observers (Categorized)](#utilities--observers-1)
+    - [Layout & Structure (Categorized)](#layout--structure-categorized)
+    - [Feedback & Indicators (Categorized)](#feedback--indicators-categorized)
+    - [Utilities & Observers (Categorized)](#utilities--observers-categorized)
     - [QR Code](#qr-code)
     - [Key Notes](#key-notes)
-3. [Pro Components, Alphabetical](#-pro-components-alphabetical)
-4. [Pro Components, Categorized](#-pro-components-categorized)
-    - [App PRO](#app-pro)
-    - [Blog & News PRO](#blog--news-pro)
-    - [Ecommerce PRO](#ecommerce-pro)
-    - [Layouts PRO](#layouts-pro)
-    - [Theming / Design Tokens](#theming--design-tokens)
-5. [Free and Pro Components Categorized](#free-and-pro-components-categorized)
+3. [🌟 **Pro** Components, Pro Patterns](#-pro-components-pro-patterns)
+    - [🌟 **Pro Components**](#-pro-components)
+    - [🌟 **Pro** "Patterns"](#-pro-patterns)
+        - [App Patterns 🌟](#app-patterns-)
+        - [Blog & News Patterns 🌟](#blog--news-patterns-)
+        - [Ecommerce Patterns 🌟](#ecommerce-patterns-)
+        - [Layouts Patterns 🌟](#layouts-patterns-)
+4. [Free and 🌟 Pro Components Categorized](#free-and--pro-components-categorized)
     - [Forms & Inputs](#forms--inputs)
     - [Layout & Structure](#layout--structure)
     - [Feedback & Indicators](#feedback--indicators)
@@ -32,15 +32,11 @@ Here I've attempted to document a comprehensive set of lists of all components i
     - [Utilities / Observers](#utilities--observers)
     - [Design & Theming](#design--theming)
     - [Takeaways](#takeaways)
-6. [Free vs Pro Components Table](#web-awesome-free-vs-pro-components-table)
+5. [Web Awesome Free vs 🌟 Pro Components Table](#web-awesome-free-vs--pro-components-table)
     - [At a Glance](#at-a-glance)
-7. [Free vs. Pro Components Chart](#web-awesome-free-vs-pro-components-chart)
+6. [Web Awesome Free vs. 🌟 **Pro** Components Chart](#web-awesome-free-vs--pro-components-chart)
     - [Visual Chart](#visual-chart)
-    - [Data Visualization & Collaboration Indicators](#data-visualization--collaboration-style-indicators-feedback--indicators)
-
-
-
----
+    - [Data Visualization & Collaboration Style Indicators (Feedback & Indicators)](#data-visualization--collaboration-style-indicators-feedback--indicators)
 
 ## Free Components, Alphabetical
 
@@ -103,8 +99,6 @@ From the official documentation (Components list), here's every enabled componen
 - Tree
 - Tree Item
 - Zoomable Frame
-
----
 
 ## Free Components, Categorized
 
@@ -180,17 +174,15 @@ From the official documentation (Components list), here's every enabled componen
 - Most have **"Since" version info** in the docs (e.g., "Since 2.0 stable").
 - Some of the newest free additions (from changelogs) include **Scroller**, **Popover**, and **Zoomable Frame**, now merged into the main list.
 
----
+## 🌟 **Pro** Components, Pro Patterns
 
-## 🌟 **Pro** Components, Alphabetical
+Here is the alphabetical list of all current Web Awesome 🌟 **Pro** Components and Pro Patterns.
 
-Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Components.
+Patterns are distinct from Components as they are copy/pasteable HTML and not custom HTML elements.
 
 [Check here for updates](https://github.com/shoelace-style/webawesome/issues?q=sort%3Aupdated-desc+is%3Aissue+state%3Aopen+label%3A%22WA+Pro%22) on the development of upcoming 🌟 **Pro** Components, such as Chart, Combobox, Data Grid, Date picker, Themer, and Google Font imports.
 
----
-
-## 📑 Alphabetical List of 🌟 **Pro Components**
+### 🌟 **Pro Components**
 
 -  App (layout)
 -  Banners
@@ -227,10 +219,12 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
 -  Testimonials
 -  Theme Builder PRO (tool for creating custom themes)
 
-## 🌟 **Pro** Patterns
-<~-- https://webawesome.com/docs/patterns/ -->
+### 🌟 **Pro** "Patterns"
+Patterns are distinct from Components as they are copy/pasteable HTML and not custom HTML elements.
 
-### App Patterns 🌟
+<!-- https://webawesome.com/docs/patterns/ -->
+
+#### App Patterns 🌟
 
 -  Action Panel
   - Simple
@@ -291,7 +285,7 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
   - Three Tiers
   - Single Tier
 
-### Blog & News Patterns 🌟
+#### Blog & News Patterns 🌟
 
   - Banners
   - Call To Action
@@ -312,7 +306,7 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
   - Teams
   - Testimonials
 
-### Ecommerce Patterns 🌟
+#### Ecommerce Patterns 🌟
 
   - Category Filter
   - Category Preview
@@ -326,76 +320,11 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
   - Product Reviews
   - Shopping Cart
 
-### Layouts Patterns 🌟
+#### Layouts Patterns 🌟
 
   - Ecommerce
   - App
   - Blog
-
----
-
-## 🌟 Pro Components, Categorized
-
-Here are **all** of the 🌟 **Pro** components in the **Web Awesome** library (according to the official documentation), grouped by category. Note that the documentation does not indicate individual completion or "Since" versions for Pro components, unlike Free components, but since they’re listed in the published docs, they’re presumed implemented and completed.
-
-[Check here for updates](https://github.com/shoelace-style/webawesome/issues?q=sort%3Aupdated-desc+is%3Aissue+state%3Aopen+label%3A%22WA+Pro%22) on the development of upcoming 🌟 **Pro** Components, such as Chart, Combobox, Data Grid, Date picker, Themer, and Google Font imports.
-
-### 🌟 Application
-  - Action Panel
-  - Activity Log
-  - Comments
-  - Data Display
-  - Description List
-  - Empty State
-  - FAQ
-  - Grid List
-  - Leaderboard
-  - Pagination
-  - Permissions
-  - Pricing
-
-### 🌟 Blog & News
-  - Banners
-  - Call To Action
-  - Category List
-  - Contact
-  - Featured Post
-  - Footer
-  - Grid Section
-  - Header
-  - Newsletter
-  - Paywall
-  - Post Footer
-  - Post Header
-  - Post List
-  - Sign Up & Login
-  - Numbers
-  - Social Share
-  - Teams
-  - Testimonials
-
-### 🌟 Ecommerce
-  - Category Filter
-  - Category Preview
-  - Checkout Form
-  - Incentives
-  - Order History
-  - Order Summary
-  - Product Lists
-  - Product Overview
-  - Product Preview
-  - Product Reviews
-  - Shopping Cart
-
-### 🌟 Layouts
-  - Ecommerce (layout)
-  - App (layout)
-  - Blog (layout)
-
-### 🌟 Theming / Design Tokens
-  - Theme Builder PRO (tool for creating custom themes)
-  
----
 
 ## Free and 🌟 Pro Components Categorized
 
@@ -563,8 +492,6 @@ Free gives functional DOM & format helpers.
 3. **Strategic gap**: Anything requiring **commerce, data visualization, or higher-order layouts** pushes you into Pro.
 4. **Free covers basics extremely well**; you won’t hit a wall until you need **complex data or marketing-driven UI**.
 
----
-
 ## Web Awesome Free vs  🌟 Pro Components Table
 
 Here’s a **feature matrix** — Free vs  🌟 **Pro** side-by-side. I grouped by functional domain so the gaps stand out clearly.
@@ -585,8 +512,6 @@ Here’s a **feature matrix** — Free vs  🌟 **Pro** side-by-side. I grouped 
 - 🌟 **Pro tier** = higher-order components (grids, charts, e-commerce flows, blog/news modules, advanced theming).
 - **Overlap** is minimal — Free doesn’t get "downgraded" when Pro adds a category, they complement each other.
 - **Decision driver**: If you need **data-heavy UI** (charts, grids) or **site-level flows** (blog, ecommerce, dashboards), Pro becomes necessary.
-
----
 
 ## Web Awesome Free vs.  🌟 **Pro** Components Chart
 
