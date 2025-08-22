@@ -227,10 +227,10 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
 -  Testimonials
 -  Theme Builder PRO (tool for creating custom themes)
 
-## Pro Patterns
+## 🌟 **Pro** Patterns
 <~-- https://webawesome.com/docs/patterns/ -->
 
-### App Patterns
+### App Patterns 🌟
 
 -  Action Panel
   - Simple
@@ -281,8 +281,8 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
   - Simple
   - With Button Group
 - Password
-    - Password Recovery
-    - Two Factor Authentication
+  - Password Recovery
+  - Two Factor Authentication
 - Permissions
   - With Form Inputs
   - Link Settings
@@ -291,7 +291,7 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
   - Three Tiers
   - Single Tier
 
-### Blog & News Patterns
+### Blog & News Patterns 🌟
 
 - Banners
 - Call To Action
@@ -312,7 +312,7 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
 - Teams
 - Testimonials
 
-### Ecommerce Patterns
+### Ecommerce Patterns 🌟
 
 - Category Filter
 - Category Preview
@@ -326,7 +326,7 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
 - Product Reviews
 - Shopping Cart
 
-### Layouts Patterns
+### Layouts Patterns 🌟
 
 - Ecommerce
 - App
