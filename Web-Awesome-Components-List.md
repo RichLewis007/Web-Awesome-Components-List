@@ -16,9 +16,9 @@ Here I've attempted to document a comprehensive set of lists of all components i
     - [Utilities & Observers (Categorized)](#utilities--observers-categorized)
     - [QR Code](#qr-code)
     - [Key Notes](#key-notes)
-3. [🌟 **Pro** Components, **Pro** Patterns](#-pro-components-pro-patterns)
-    - [🌟 **Pro Components**](#-pro-components)
-    - [🌟 **Pro** "Patterns"](#-pro-patterns)
+3. [🌟 **Pro** Components & **Pro** Patterns](#pro-components--pro-patterns)
+    - [🌟 **Pro Components**](#pro-components)
+    - [🌟 **Pro** "Patterns"](#pro-patterns)
         - [App Patterns 🌟](#app-patterns-)
         - [Blog & News Patterns 🌟](#blog--news-patterns-)
         - [Ecommerce Patterns 🌟](#ecommerce-patterns-)
@@ -174,7 +174,7 @@ From the official documentation (Components list), here's every enabled componen
 - Most have **"Since" version info** in the docs (e.g., "Since 2.0 stable").
 - Some of the newest free additions (from changelogs) include **Scroller**, **Popover**, and **Zoomable Frame**, now merged into the main list.
 
-## 🌟 **Pro** Components, **Pro** Patterns
+## 🌟 **Pro** Components & **Pro** Patterns
 
 Here is the alphabetical list of all current Web Awesome 🌟 **Pro** Components and **Pro** Patterns.
 
