@@ -228,18 +228,110 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
 -  Theme Builder PRO (tool for creating custom themes)
 
 ## Pro Patterns
--  Action Panel (pattern)
--  Activity Log (pattern)
--  Comments (pattern)
--  Data Display (pattern)
--  Description List (pattern)
--  Empty State (pattern)
--  FAQ (pattern)
--  Grid List (pattern)
--  Leaderboard (pattern)
--  Pagination (pattern)
-- Password Recovery (pattern)
-- Two Factor Authentication
+<~-- https://webawesome.com/docs/patterns/ -->
+
+### App Patterns
+
+-  Action Panel
+  - Simple
+  - With Flanked Button
+  - With Switch
+  - Avatar and Quick actions
+-  Activity Log
+  - Simple
+  - Timeline with Icons
+  - With Expandable Details
+  - Card Separated
+  - Divider Separated
+-  Comments
+  - Card with Header & Footer
+  - Card with Thread
+  - With Avatar & Additional Actions
+  - Rich Card with Multiple Actions
+  - With Preview Pane
+-  Data Display
+  - Simple
+  - Cards with Avatars
+  - Condensed Card
+-  Description List
+  - Left Aligned
+  - Two Column
+  - Left Aligned with Actions
+  - Condensed
+-  Empty State
+  - Simple
+  - With Interactive Placeholder
+  - With Templates
+  - Add people
+-  FAQ
+  - With Flanked Heading & Description
+  - With Expandable Answers
+  - Two Column
+  - Multiple Columns
+-  Grid List
+  - Cards with Footer Actions
+  - Cards with Footer Actions & Large Image
+  - With Images
+  - Linked Cards with Options Menu
+  - Kanban
+-  Leaderboard
+  - Simple
+  - Two Column
+-  Pagination
+  - Simple
+  - With Button Group
+- Password
+    - Password Recovery
+    - Two Factor Authentication
+- Permissions
+  - With Form Inputs
+  - Link Settings
+  - Role Settings
+- Pricing
+  - Three Tiers
+  - Single Tier
+
+### Blog & News Patterns
+
+- Banners
+- Call To Action
+- Category List
+- Contact
+- Featured Post
+- Footer
+- Grid Section
+- Header
+- Newsletter
+- Paywall
+- Post Footer
+- Post Header
+- Post List
+- Sign Up & Login
+- Numbers
+- Social Share
+- Teams
+- Testimonials
+
+### Ecommerce Patterns
+
+- Category Filter
+- Category Preview
+- Checkout Form
+- Incentives
+- Order History
+- Order Summary
+- Product Lists
+- Product Overview
+- Product Preview
+- Product Reviews
+- Shopping Cart
+
+### Layouts Patterns
+
+- Ecommerce
+- App
+- Blog
+
 ---
 
 ## 🌟 Pro Components, Categorized
