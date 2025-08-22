@@ -182,18 +182,67 @@ From the official documentation (Components list), here's every enabled componen
 
 ---
 
-## Pro Components, Alphabetical
+## 🌟 Pro Components, Alphabetical
 
-To be created.
+Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro Components** 
 
 ---
 
+## 📑 Alphabetical List of 🌟 **Pro Components**
 
-## Pro Components, Categorized
+* Action Panel
+* Activity Log
+* App (layout)
+* Banners
+* Call To Action
+* Category Filter
+* Category List
+* Category Preview
+* Checkout Form
+* Comments
+* Contact
+* Data Display
+* Description List
+* Ecommerce (layout)
+* Empty State
+* FAQ
+* Featured Post
+* Footer
+* Grid List
+* Grid Section
+* Header
+* Incentives
+* Leaderboard
+* Newsletter
+* Numbers
+* Order History
+* Order Summary
+* Pagination
+* Password
+* Paywall
+* Permissions
+* Post Footer
+* Post Header
+* Post List
+* Pricing
+* Product Lists
+* Product Overview
+* Product Preview
+* Product Reviews
+* Shopping Cart
+* Sign Up & Login
+* Social Share
+* Teams
+* Testimonials
+* Theme Builder PRO (tool for creating custom themes)
 
-Here are **all** the **Pro** components in the **Web Awesome** library (according to the official documentation), grouped by category. Note that the documentation does not indicate individual completion or "Since" versions for Pro components—unlike Free components—but since they’re listed in the published docs, they’re presumed implemented and completed.
+---
 
-### App PRO
+## 🌟 Pro Components, Categorized
+
+Here are **all** of the 🌟 **Pro** components in the **Web Awesome** library (according to the official documentation), grouped by category. Note that the documentation does not indicate individual completion or "Since" versions for Pro components, unlike Free components, but since they’re listed in the published docs, they’re presumed implemented and completed.
+
+### 🌟 Application
 - Action Panel
 - Activity Log
 - Comments
@@ -208,7 +257,7 @@ Here are **all** the **Pro** components in the **Web Awesome** library (accord
 - Permissions
 - Pricing
 
-### Blog & News PRO
+### 🌟 Blog & News
 - Banners
 - Call To Action
 - Category List
@@ -228,7 +277,7 @@ Here are **all** the **Pro** components in the **Web Awesome** library (accord
 - Teams
 - Testimonials
 
-### Ecommerce PRO
+### 🌟 Ecommerce
 - Category Filter
 - Category Preview
 - Checkout Form
@@ -241,17 +290,17 @@ Here are **all** the **Pro** components in the **Web Awesome** library (accord
 - Product Reviews
 - Shopping Cart
 
-### Layouts PRO
+### 🌟 Layouts
 - Ecommerce (layout)
 - App (layout)
 - Blog (layout)
 
-### Theming / Design Tokens
+### 🌟 Theming / Design Tokens
 - Theme Builder PRO (tool for creating custom themes)
   
 ---
 
-## Free and Pro Components Categorized
+## Free and 🌟 Pro Components Categorized
 
 Here’s a **cross-mapping** of **Free vs Pro components** by category, so you can quickly see overlaps, complements, and where the Pro tier adds unique value. This is based on the official [Web Awesome Docs](https://webawesome.com/docs/) component listings.
 
@@ -273,13 +322,13 @@ Here’s a **cross-mapping** of **Free vs Pro components** by category, so you c
 - Copy Button
 - File Input (free stretch goal)
 
-**Pro**
-- Combobox (autocomplete/typeahead) 🟨
-- Date Picker 🟨
-- Password (App Pro) 🟨 ??
+🌟 **Pro**
+- Combobox (autocomplete/typeahead) 🌟
+- Date Picker 🌟
+- Password (App Pro) 🌟 ??
 
 Free covers the basics.  
-🟨 Pro adds **richer inputs like Combobox, Date Picker, and specialized password handling??.**
+🌟 **Pro** adds **richer inputs like Combobox, Date Picker, and specialized password handling??.**
 
 ### Layout & Structure
 
@@ -292,15 +341,15 @@ Free covers the basics.
 - Tree (+Tree Item)
 - Breadcrumb (+Item)
 
-**Pro**
-- App Layout 🟨
-- Blog Layout 🟨
-- Ecommerce Layout 🟨
-- Action Panel 🟨
-- Grid List 🟨
+🌟 **Pro**
+- App Layout 🌟
+- Blog Layout 🌟
+- Ecommerce Layout 🌟
+- Action Panel 🌟
+- Grid List 🌟
 
 Free gives core primitives.  
-🟨 Pro provides **"full-page" layouts and higher-level panels/lists for application scaffolding.**
+🌟 **Pro** provides **"full-page" layouts and higher-level panels/lists for application scaffolding.**
 
 ### Feedback & Indicators
 
@@ -318,16 +367,16 @@ Free gives core primitives.
 - Skeleton
 - Spinner
 
-**Pro**
-- Data Grid 🟨 (structured datasets, tables)
-- Charts 🟨 (graphs/visualizations)
-- Activity Log 🟨
-- Comments 🟨
-- Leaderboard 🟨
-- Toast & Toast Item (upcoming) 🟨
+🌟 **Pro**
+- Data Grid 🌟 (structured datasets, tables)
+- Charts 🌟 (graphs/visualizations)
+- Activity Log 🌟
+- Comments 🌟
+- Leaderboard 🌟
+- Toast & Toast Item (upcoming) 🌟
 
 Free = visual state indicators.  
-🟨 Pro = **data-heavy visualization & collaboration components.***
+🌟 **Pro** = **data-heavy visualization & collaboration components.***
 
 ### Content & Blog / News
 
@@ -336,26 +385,48 @@ Free = visual state indicators.
 - Animated Image
 - Animation
 
-**Pro**
-- Blog & News suite: Banners, CTA, Category List, Contact, Featured Post, Footer, Grid Section, Header, Newsletter, Paywall, Post Footer, Post Header, Post List, Sign Up/Login, Numbers, Social Share, Teams, Testimonials 🟨
+🌟 **Pro**
+- Banners 🌟
+- CTA 🌟
+- Category List 🌟
+- Contact 🌟
+- Featured Post 🌟
+- Footer 🌟
+- Grid Section 🌟
+- Header 🌟
+- Newsletter 🌟
+- Paywall 🌟
+- Post Footer 🌟
+- Post Header 🌟
+- Post List 🌟
+- Sign Up/Login 🌟
+- Numbers 🌟
+- Social Share 🌟
+- Teams 🌟
+- Testimonials 🌟
 
 Free doesn’t focus on CMS/blogging.  
-🟨 Pro **fills in full-site content marketing patterns.**
+🌟 **Pro** **fills in full-site content marketing patterns.**
 
 ### Commerce
 
 **Free**
 - QR Code (indirect utility for commerce)
 
-**Pro**
-- Category Filter, Category Preview 🟨
-- Checkout Form 🟨
-- Incentives 🟨
-- Order History, Order Summary 🟨
-- Product Lists, Product Overview, Product Preview, Product Reviews 🟨
-- Shopping Cart 🟨
+🌟 **Pro**
+- Category Filter  🌟
+- Category Preview 🌟
+- Checkout Form 🌟
+- Incentives 🌟
+- Order History  🌟
+- Order Summary 🌟
+- Product Lists 🌟
+- Product Overview 🌟
+- Product Preview 🌟
+- Product Reviews 🌟
+- Shopping Cart 🌟
 
-🟨 Ecommerce is **Pro-exclusive**: checkout flows, product displays, order management.
+🌟 Ecommerce is **Pro-exclusive**: checkout flows, product displays, order management.
 
 ### Utilities / Observers
 
@@ -367,61 +438,61 @@ Free doesn’t focus on CMS/blogging.
 - Scroller
 - Zoomable Frame
 
-**Pro**
-- Permissions 🟨
-- Pricing 🟨
-- FAQ 🟨
-- Empty State 🟨
-- Description List 🟨
-- Intersection Observer (upcoming) 🟨
+🌟 **Pro**
+- Permissions 🌟
+- Pricing 🌟
+- FAQ 🌟
+- Empty State 🌟
+- Description List 🌟
+- Intersection Observer (upcoming) 🌟
 
 Free gives functional DOM & format helpers.  
-🟨 Pro **layers in "business-ready" utilities like pricing, permissions, and empty-state UX.**
+🌟 **Pro** layers in "business-ready" utilities like pricing, permissions, and empty-state UX.
 
 ### Design & Theming
 
 **Free**
 - Core CSS variables + themes baked in
 
-**Pro**
-- Theme Builder PRO 🟨
-- Figma plugin + design files 🟨
+🌟 **Pro**
+- Theme Builder (in beta now) 🌟
+- Figma plugin + design files (upcoming) 🌟
 
-🟨 Pro **gives advanced theming/design tooling and editable design assets.**
+🌟 **Pro** gives advanced theming/design tooling and editable design assets.
 
 ### Takeaways
 
 1. **Free = primitives**: Buttons, cards, modals, spinners, tabs, etc. Enough for most web apps.
-2. 🟨 **Pro = opinionated patterns**: Layouts, blog/e-commerce flows, data-heavy charts & grids, and advanced theming tools.
+2. 🌟 **Pro = opinionated patterns**: Layouts, blog/e-commerce flows, data-heavy charts & grids, and advanced theming tools.
 3. **Strategic gap**: Anything requiring **commerce, data visualization, or higher-order layouts** pushes you into Pro.
 4. **Free covers basics extremely well**; you won’t hit a wall until you need **complex data or marketing-driven UI**.
 
 ---
 
-## Web Awesome Free vs Pro Components Table
+## Web Awesome Free vs  🌟 Pro Components Table
 
-Here’s a **feature matrix** — Free vs Pro side-by-side. I grouped by functional domain so the gaps stand out clearly.
+Here’s a **feature matrix** — Free vs  🌟 **Pro** side-by-side. I grouped by functional domain so the gaps stand out clearly.
 
-| **Category**              | **Free Components**                                                                                                              | 🟨 **Pro Components**                                                                                                                                                                                                |
+| **Category**              | **Free Components**                                                                                                              | 🌟 **Pro Components**                                                                                                                                                                                                |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Forms & Inputs**        | Button, Button Group, Checkbox, Switch, Radio Group + Radio, Input, Textarea, Select + Option, Slider, Color Picker, Copy Button | 🟨 Combobox (autocomplete/typeahead), Date Picker, Password, File Input                                                                                                                                                          |
-| **Layout & Structure**    | Avatar, Breadcrumb + Item, Card, Carousel + Item, Drawer, Split Panel, Tab Group + Tab/Panel, Tree + Item                        | 🟨 App Layout, Blog Layout, Ecommerce Layout, Action Panel, Grid List                                                                                                                                                |
-| **Feedback & Indicators** | Badge, Tag, Callout, Dialog, Tooltip, Popover, Popup, Progress Bar, Progress Ring, Rating, Skeleton, Spinner                     | 🟨 Data Grid, Charts, Activity Log, Comments, Leaderboard                                                                                                                                                            |
-| **Content / Blog & News** | Animated Image, Animation                                                                                                        | 🟨 Banners, Call To Action, Category List, Contact, Featured Post, Footer, Grid Section, Header, Newsletter, Paywall, Post Footer, Post Header, Post List, Sign Up/Login, Numbers, Social Share, Teams, Testimonials |
-| **Ecommerce**             | QR Code (indirect utility)                                                                                                       | 🟨 Category Filter, Category Preview, Checkout Form, Incentives, Order History, Order Summary, Product Lists, Product Overview, Product Preview, Product Reviews, Shopping Cart                                      |
-| **Utilities / Observers** | Format Bytes, Format Date, Format Number, Include, Mutation Observer, Resize Observer, Relative Time, Scroller, Zoomable Frame   | 🟨 Permissions, Pricing, FAQ, Empty State, Description List                                                                                                                                                          |
-| **Design & Theming**      | Core theming variables and defaults                                                                                              | 🟨 Theme Builder PRO, Figma file + plugin                                                                                                                                                                            |
+| **Forms & Inputs**        | Button, Button Group, Checkbox, Switch, Radio Group + Radio, Input, Textarea, Select + Option, Slider, Color Picker, Copy Button | 🌟 Combobox (autocomplete/typeahead), Date Picker, Password, File Input                                                                                                                                                          |
+| **Layout & Structure**    | Avatar, Breadcrumb + Item, Card, Carousel + Item, Drawer, Split Panel, Tab Group + Tab/Panel, Tree + Item                        | 🌟 App Layout, Blog Layout, Ecommerce Layout, Action Panel, Grid List                                                                                                                                                |
+| **Feedback & Indicators** | Badge, Tag, Callout, Dialog, Tooltip, Popover, Popup, Progress Bar, Progress Ring, Rating, Skeleton, Spinner                     | 🌟 Data Grid, Charts, Activity Log, Comments, Leaderboard                                                                                                                                                            |
+| **Content / Blog & News** | Animated Image, Animation                                                                                                        | 🌟 Banners, Call To Action, Category List, Contact, Featured Post, Footer, Grid Section, Header, Newsletter, Paywall, Post Footer, Post Header, Post List, Sign Up/Login, Numbers, Social Share, Teams, Testimonials |
+| **Ecommerce**             | QR Code (indirect utility)                                                                                                       | 🌟 Category Filter, Category Preview, Checkout Form, Incentives, Order History, Order Summary, Product Lists, Product Overview, Product Preview, Product Reviews, Shopping Cart                                      |
+| **Utilities / Observers** | Format Bytes, Format Date, Format Number, Include, Mutation Observer, Resize Observer, Relative Time, Scroller, Zoomable Frame   | 🌟 Permissions, Pricing, FAQ, Empty State, Description List                                                                                                                                                          |
+| **Design & Theming**      | Core theming variables and defaults                                                                                              | 🌟 Theme Builder PRO, Figma file + plugin                                                                                                                                                                            |
 
 ### At a Glance
 
 - **Free tier** = raw building blocks (forms, dialogs, indicators, utility helpers).
-- 🟨 **Pro tier** = higher-order components (grids, charts, e-commerce flows, blog/news modules, advanced theming).
+- 🌟 **Pro tier** = higher-order components (grids, charts, e-commerce flows, blog/news modules, advanced theming).
 - **Overlap** is minimal — Free doesn’t get "downgraded" when Pro adds a category, they complement each other.
 - **Decision driver**: If you need **data-heavy UI** (charts, grids) or **site-level flows** (blog, ecommerce, dashboards), Pro becomes necessary.
 
 ---
 
-## Web Awesome Free vs. Pro Components Chart
+## Web Awesome Free vs.  🌟 **Pro** Components Chart
 
 <p align="center">
   <img src="./assets/web-awesome-free-vs-pro-chart-by-category.png" alt="Web Awesome free vs Pro chart by category" width="1024">
@@ -430,7 +501,7 @@ Here’s a **feature matrix** — Free vs Pro side-by-side. I grouped by functio
 Here’s a **visual chart** comparing the **number of Free vs Pro components per category** in Web Awesome.
 
 - 🟦 **Free** = light blue  
-- 🟨 **Pro** = gold
+- 🌟 **Pro** = gold
 
 It gives a quick scan of where Pro adds the most: Blog & News, Ecommerce, and Feedback & Indicators.
 
@@ -438,9 +509,6 @@ It gives a quick scan of where Pro adds the most: Blog & News, Ecommerce, and Fe
 
 Data visualization & collaboration-style indicators (Feedback & Indicators)
 - Free gives you **UI status cues** (loading, progress, notifications).
-- 🟨 Pro expands this into **data-heavy presentation and collaborative indicators** (tables, charts, logs, rankings, comment feeds).
+- 🌟 **Pro** expands this into **data-heavy presentation and collaborative indicators** (tables, charts, logs, rankings, comment feeds).
 
 ### Data Visualization & Collaboration Style Indicators (Feedback & Indicators)
-
----
-
