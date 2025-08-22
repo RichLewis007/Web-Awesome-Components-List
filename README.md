@@ -1,6 +1,6 @@
 # 👍🏽👍🏾👍🏿 Web Awesome Components List 👍🏻👍🏼👍
 
-I've written up a comprehensive list of all components in the Web Awesome library, both Free and Pro, completed and upcoming. I've put them in several lists which include the components alphabeticized, categorized, and merged and categorized. You can also get them Scattered, Smothered, Covered, Chunked, Diced, Peppered, Capped, Topped, or Country. If you order the extra Pro components, you can have them "All The Way!" [‡](#pagenotes) 
+I've written up a comprehensive list of all components in the Web Awesome library, both Free and Pro, completed and upcoming. I've put them in several lists which include the components alphabeticized, categorized, and merged and categorized. You can also get them Scattered, Smothered, Covered, Chunked, Diced, Peppered, Capped, Topped, or Country. If you order the extra Pro components, you can have them "All The Way!" [‡](#page-notes) 
 
 > **What Is Web Awesome?**
 > 
