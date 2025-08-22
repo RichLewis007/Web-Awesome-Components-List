@@ -24,5 +24,5 @@ This will also lead other people to see it.
 
 ##### Page Notes
 <sub>‡ References to the </sub>🧇<sub> **Waffle House restaurant**, which allows you to customize hash browns using a specific lingo to add toppings or ingredients, such as Scattered (spread thin), Smothered (with onions), Covered (with cheese), Chunked (with ham), Diced (with tomatoes), Peppered (with jalapeños), Capped (with mushrooms), Topped (with chili), or Country (with gravy). You can also combine these options and order your hash browns **All the Way**, which includes everything for the ultimate hash brown experience.</sub>\
-<sub>**All the Way**: "World Famous Golden Delicious Hashbrowns with Grilled Onions, Melted American Cheese, Hickory Smoked Ham, Diced Tomatoes, Jalapeno Peppers & Grilled Mushrooms, then topped with Bert`s Chili™ and Sausage Gravy."</sub>\
+<sub>**All the Way**: "World Famous Golden Delicious Hashbrowns with Grilled Onions, Melted American Cheese, Hickory Smoked Ham, Diced Tomatoes, Jalapeno Peppers & Grilled Mushrooms, then topped with Bert`s Chili™ and Sausage Gravy." Waffle House food must be purchased separately from Web Awesome Pro. Sadly.</sub>\
 <sub>Aren't you glad you asked? Hungry now?</sub> 🧇
