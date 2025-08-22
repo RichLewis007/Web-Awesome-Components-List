@@ -68,7 +68,7 @@ From the official documentation (Components list), here's every enabled componen
 - Drawer
 - Dropdown
 - Dropdown Item
-- File Input
+- File Input ([Free stretch goal](https://github.com/shoelace-style/webawesome/issues/1240))
 - Format Bytes
 - Format Date
 - Format Number
@@ -122,7 +122,7 @@ From the official documentation (Components list), here's every enabled componen
 - Slider
 - Switch
 - Textarea
-- File Input (Free stretch goal)
+- File Input ([Free stretch goal](https://github.com/shoelace-style/webawesome/issues/1240))
 
 ### Layout & Structure (Categorized)
 - Avatar
@@ -184,7 +184,9 @@ From the official documentation (Components list), here's every enabled componen
 
 ## 🌟 Pro Components, Alphabetical
 
-Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro Components** 
+Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro Components**.
+
+[Check here for updates](https://github.com/shoelace-style/webawesome/issues?q=sort%3Aupdated-desc+is%3Aissue+state%3Aopen+label%3A%22WA+Pro%22) on the development of upcoming 🌟 **Pro** Components, such as Chart, Combobox, Data Grid, Date picker, Themer, and Google Font imports.
 
 ---
 
@@ -241,6 +243,8 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro Component
 ## 🌟 Pro Components, Categorized
 
 Here are **all** of the 🌟 **Pro** components in the **Web Awesome** library (according to the official documentation), grouped by category. Note that the documentation does not indicate individual completion or "Since" versions for Pro components, unlike Free components, but since they’re listed in the published docs, they’re presumed implemented and completed.
+
+[Check here for updates](https://github.com/shoelace-style/webawesome/issues?q=sort%3Aupdated-desc+is%3Aissue+state%3Aopen+label%3A%22WA+Pro%22) on the development of upcoming 🌟 **Pro** Components, such as Chart, Combobox, Data Grid, Date picker, Themer, and Google Font imports.
 
 ### 🌟 Application
 - Action Panel
@@ -320,7 +324,7 @@ Here’s a **cross-mapping** of **Free vs Pro components** by category, so you c
 - Slider
 - Color Picker
 - Copy Button
-- File Input (free stretch goal)
+- File Input ([Free stretch goal](https://github.com/shoelace-style/webawesome/issues/1240))
 
 🌟 **Pro**
 - Combobox (autocomplete/typeahead) 🌟
