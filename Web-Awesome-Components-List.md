@@ -4,7 +4,7 @@ Here I've attempted to document a comprehensive set of lists of all components i
 
 "Free" indicates the component is provided under Web Awesome's open-source tier — the full suite of <wa-\*> custom elements without any "PRO" restrictions.
 
-"Pro" components are available to those who have pre-ordered Web Awesome Pro via the [KickStarter campaign](https://www.kickstarter.com/projects/fontawesome/web-awesome).
+🌟 "**Pro**" components are available to those who have pre-ordered Web Awesome Pro via the [KickStarter campaign](https://www.kickstarter.com/projects/fontawesome/web-awesome).
 
 # Table of Contents
 
@@ -44,7 +44,7 @@ Here I've attempted to document a comprehensive set of lists of all components i
 
 ## Free Components, Alphabetical
 
-From the official documentation (Components list), here's every enabled component without the "PRO" label—meaning they are part of the fully open-source, free core of Web Awesome:
+From the official documentation (Components list), here's every enabled component without the 🌟 **Pro** label, meaning they are part of the fully open-source, free core of Web Awesome:
 
 - Animated Image
 - Animation
@@ -182,9 +182,9 @@ From the official documentation (Components list), here's every enabled componen
 
 ---
 
-## 🌟 Pro Components, Alphabetical
+## 🌟 **Pro** Components, Alphabetical
 
-Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro Components**.
+Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Components.
 
 [Check here for updates](https://github.com/shoelace-style/webawesome/issues?q=sort%3Aupdated-desc+is%3Aissue+state%3Aopen+label%3A%22WA+Pro%22) on the development of upcoming 🌟 **Pro** Components, such as Chart, Combobox, Data Grid, Date picker, Themer, and Google Font imports.
 
@@ -220,7 +220,6 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro Component
 * Order History
 * Order Summary
 * Pagination
-* Password
 * Paywall
 * Permissions
 * Post Footer
@@ -257,7 +256,6 @@ Here are **all** of the 🌟 **Pro** components in the **Web Awesome** library
 - Grid List
 - Leaderboard
 - Pagination
-- Password
 - Permissions
 - Pricing
 
@@ -329,10 +327,9 @@ Here’s a **cross-mapping** of **Free vs Pro components** by category, so you c
 🌟 **Pro**
 - Combobox (autocomplete/typeahead) 🌟
 - Date Picker 🌟
-- Password (App Pro) 🌟 ??
 
 Free covers the basics.  
-🌟 **Pro** adds **richer inputs like Combobox, Date Picker, and specialized password handling??.**
+🌟 **Pro** adds richer inputs like Combobox, Date Picker.
 
 ### Layout & Structure
 
@@ -353,7 +350,7 @@ Free covers the basics.
 - Grid List 🌟
 
 Free gives core primitives.  
-🌟 **Pro** provides **"full-page" layouts and higher-level panels/lists for application scaffolding.**
+🌟 **Pro** provides "full-page" layouts and higher-level panels/lists for application scaffolding.
 
 ### Feedback & Indicators
 
@@ -380,7 +377,7 @@ Free gives core primitives.
 - Toast & Toast Item (upcoming) 🌟
 
 Free = visual state indicators.  
-🌟 **Pro** = **data-heavy visualization & collaboration components.***
+🌟 **Pro** = data-heavy visualization & collaboration components.
 
 ### Content & Blog / News
 
@@ -410,7 +407,7 @@ Free = visual state indicators.
 - Testimonials 🌟
 
 Free doesn’t focus on CMS/blogging.  
-🌟 **Pro** **fills in full-site content marketing patterns.**
+🌟 **Pro** fills in full-site content marketing patterns.
 
 ### Commerce
 
@@ -479,7 +476,7 @@ Here’s a **feature matrix** — Free vs  🌟 **Pro** side-by-side. I grouped 
 
 | **Category**              | **Free Components**                                                                                                              | 🌟 **Pro Components**                                                                                                                                                                                                |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Forms & Inputs**        | Button, Button Group, Checkbox, Switch, Radio Group + Radio, Input, Textarea, Select + Option, Slider, Color Picker, Copy Button | 🌟 Combobox (autocomplete/typeahead), Date Picker, Password, File Input                                                                                                                                                          |
+| **Forms & Inputs**        | Button, Button Group, Checkbox, Switch, Radio Group + Radio, Input, Textarea, Select + Option, Slider, Color Picker, Copy Button | 🌟 Combobox (autocomplete/typeahead), Date Picker, File Input                                                                                                                                                          |
 | **Layout & Structure**    | Avatar, Breadcrumb + Item, Card, Carousel + Item, Drawer, Split Panel, Tab Group + Tab/Panel, Tree + Item                        | 🌟 App Layout, Blog Layout, Ecommerce Layout, Action Panel, Grid List                                                                                                                                                |
 | **Feedback & Indicators** | Badge, Tag, Callout, Dialog, Tooltip, Popover, Popup, Progress Bar, Progress Ring, Rating, Skeleton, Spinner                     | 🌟 Data Grid, Charts, Activity Log, Comments, Leaderboard                                                                                                                                                            |
 | **Content / Blog & News** | Animated Image, Animation                                                                                                        | 🌟 Banners, Call To Action, Category List, Contact, Featured Post, Footer, Grid Section, Header, Newsletter, Paywall, Post Footer, Post Header, Post List, Sign Up/Login, Numbers, Social Share, Teams, Testimonials |
