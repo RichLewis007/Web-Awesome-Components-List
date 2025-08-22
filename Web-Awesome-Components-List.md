@@ -237,47 +237,47 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
   - With Flanked Button
   - With Switch
   - Avatar and Quick actions
--  Activity Log
+- Activity Log
   - Simple
   - Timeline with Icons
   - With Expandable Details
   - Card Separated
   - Divider Separated
--  Comments
+- Comments
   - Card with Header & Footer
   - Card with Thread
   - With Avatar & Additional Actions
   - Rich Card with Multiple Actions
   - With Preview Pane
--  Data Display
+- Data Display
   - Simple
   - Cards with Avatars
   - Condensed Card
--  Description List
+- Description List
   - Left Aligned
   - Two Column
   - Left Aligned with Actions
   - Condensed
--  Empty State
+- Empty State
   - Simple
   - With Interactive Placeholder
   - With Templates
   - Add people
--  FAQ
+- FAQ
   - With Flanked Heading & Description
   - With Expandable Answers
   - Two Column
   - Multiple Columns
--  Grid List
+- Grid List
   - Cards with Footer Actions
   - Cards with Footer Actions & Large Image
   - With Images
   - Linked Cards with Options Menu
   - Kanban
--  Leaderboard
+- Leaderboard
   - Simple
   - Two Column
--  Pagination
+- Pagination
   - Simple
   - With Button Group
 - Password
@@ -293,44 +293,44 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
 
 ### Blog & News Patterns 🌟
 
-- Banners
-- Call To Action
-- Category List
-- Contact
-- Featured Post
-- Footer
-- Grid Section
-- Header
-- Newsletter
-- Paywall
-- Post Footer
-- Post Header
-- Post List
-- Sign Up & Login
-- Numbers
-- Social Share
-- Teams
-- Testimonials
+  - Banners
+  - Call To Action
+  - Category List
+  - Contact
+  - Featured Post
+  - Footer
+  - Grid Section
+  - Header
+  - Newsletter
+  - Paywall
+  - Post Footer
+  - Post Header
+  - Post List
+  - Sign Up & Login
+  - Numbers
+  - Social Share
+  - Teams
+  - Testimonials
 
 ### Ecommerce Patterns 🌟
 
-- Category Filter
-- Category Preview
-- Checkout Form
-- Incentives
-- Order History
-- Order Summary
-- Product Lists
-- Product Overview
-- Product Preview
-- Product Reviews
-- Shopping Cart
+  - Category Filter
+  - Category Preview
+  - Checkout Form
+  - Incentives
+  - Order History
+  - Order Summary
+  - Product Lists
+  - Product Overview
+  - Product Preview
+  - Product Reviews
+  - Shopping Cart
 
 ### Layouts Patterns 🌟
 
-- Ecommerce
-- App
-- Blog
+  - Ecommerce
+  - App
+  - Blog
 
 ---
 
@@ -341,59 +341,59 @@ Here are **all** of the 🌟 **Pro** components in the **Web Awesome** library
 [Check here for updates](https://github.com/shoelace-style/webawesome/issues?q=sort%3Aupdated-desc+is%3Aissue+state%3Aopen+label%3A%22WA+Pro%22) on the development of upcoming 🌟 **Pro** Components, such as Chart, Combobox, Data Grid, Date picker, Themer, and Google Font imports.
 
 ### 🌟 Application
-- Action Panel
-- Activity Log
-- Comments
-- Data Display
-- Description List
-- Empty State
-- FAQ
-- Grid List
-- Leaderboard
-- Pagination
-- Permissions
-- Pricing
+  - Action Panel
+  - Activity Log
+  - Comments
+  - Data Display
+  - Description List
+  - Empty State
+  - FAQ
+  - Grid List
+  - Leaderboard
+  - Pagination
+  - Permissions
+  - Pricing
 
 ### 🌟 Blog & News
-- Banners
-- Call To Action
-- Category List
-- Contact
-- Featured Post
-- Footer
-- Grid Section
-- Header
-- Newsletter
-- Paywall
-- Post Footer
-- Post Header
-- Post List
-- Sign Up & Login
-- Numbers
-- Social Share
-- Teams
-- Testimonials
+  - Banners
+  - Call To Action
+  - Category List
+  - Contact
+  - Featured Post
+  - Footer
+  - Grid Section
+  - Header
+  - Newsletter
+  - Paywall
+  - Post Footer
+  - Post Header
+  - Post List
+  - Sign Up & Login
+  - Numbers
+  - Social Share
+  - Teams
+  - Testimonials
 
 ### 🌟 Ecommerce
-- Category Filter
-- Category Preview
-- Checkout Form
-- Incentives
-- Order History
-- Order Summary
-- Product Lists
-- Product Overview
-- Product Preview
-- Product Reviews
-- Shopping Cart
+  - Category Filter
+  - Category Preview
+  - Checkout Form
+  - Incentives
+  - Order History
+  - Order Summary
+  - Product Lists
+  - Product Overview
+  - Product Preview
+  - Product Reviews
+  - Shopping Cart
 
 ### 🌟 Layouts
-- Ecommerce (layout)
-- App (layout)
-- Blog (layout)
+  - Ecommerce (layout)
+  - App (layout)
+  - Blog (layout)
 
 ### 🌟 Theming / Design Tokens
-- Theme Builder PRO (tool for creating custom themes)
+  - Theme Builder PRO (tool for creating custom themes)
   
 ---
 
@@ -477,29 +477,29 @@ Free = visual state indicators.
 ### Content & Blog / News
 
 **Free**
-- Avatar
-- Animated Image
-- Animation
+  - Avatar
+  - Animated Image
+  - Animation
 
 🌟 **Pro**
-- Banners 🌟
-- CTA 🌟
-- Category List 🌟
-- Contact 🌟
-- Featured Post 🌟
-- Footer 🌟
-- Grid Section 🌟
-- Header 🌟
-- Newsletter 🌟
-- Paywall 🌟
-- Post Footer 🌟
-- Post Header 🌟
-- Post List 🌟
-- Sign Up/Login 🌟
-- Numbers 🌟
-- Social Share 🌟
-- Teams 🌟
-- Testimonials 🌟
+  - Banners 🌟
+  - CTA 🌟
+  - Category List 🌟
+  - Contact 🌟
+  - Featured Post 🌟
+  - Footer 🌟
+  - Grid Section 🌟
+  - Header 🌟
+  - Newsletter 🌟
+  - Paywall 🌟
+  - Post Footer 🌟
+  - Post Header 🌟
+  - Post List 🌟
+  - Sign Up/Login 🌟
+  - Numbers 🌟
+  - Social Share 🌟
+  - Teams 🌟
+  - Testimonials 🌟
 
 Free doesn’t focus on CMS/blogging.  
 🌟 **Pro** fills in full-site content marketing patterns.
@@ -507,40 +507,40 @@ Free doesn’t focus on CMS/blogging.
 ### Commerce
 
 **Free**
-- QR Code (indirect utility for commerce)
+  - QR Code (indirect utility for commerce)
 
 🌟 **Pro**
-- Category Filter  🌟
-- Category Preview 🌟
-- Checkout Form 🌟
-- Incentives 🌟
-- Order History  🌟
-- Order Summary 🌟
-- Product Lists 🌟
-- Product Overview 🌟
-- Product Preview 🌟
-- Product Reviews 🌟
-- Shopping Cart 🌟
+  - Category Filter  🌟
+  - Category Preview 🌟
+  - Checkout Form 🌟
+  - Incentives 🌟
+  - Order History  🌟
+  - Order Summary 🌟
+  - Product Lists 🌟
+  - Product Overview 🌟
+  - Product Preview 🌟
+  - Product Reviews 🌟
+  - Shopping Cart 🌟
 
 🌟 Ecommerce is **Pro-exclusive**: checkout flows, product displays, order management.
 
 ### Utilities / Observers
 
 **Free**
-- Format Bytes / Date / Number
-- Include
-- Mutation Observer, Resize Observer
-- Relative Time
-- Scroller
-- Zoomable Frame
+  - Format Bytes / Date / Number
+  - Include
+  - Mutation Observer, Resize Observer
+  - Relative Time
+  - Scroller
+  - Zoomable Frame
 
 🌟 **Pro**
-- Permissions 🌟
-- Pricing 🌟
-- FAQ 🌟
-- Empty State 🌟
-- Description List 🌟
-- Intersection Observer (upcoming) 🌟
+  - Permissions 🌟
+  - Pricing 🌟
+  - FAQ 🌟
+  - Empty State 🌟
+  - Description List 🌟
+  - Intersection Observer (upcoming) 🌟
 
 Free gives functional DOM & format helpers.  
 🌟 **Pro** layers in "business-ready" utilities like pricing, permissions, and empty-state UX.
@@ -548,11 +548,11 @@ Free gives functional DOM & format helpers.
 ### Design & Theming
 
 **Free**
-- Core CSS variables + themes baked in
+  - Core CSS variables + themes baked in
 
 🌟 **Pro**
-- Theme Builder (in beta now) 🌟
-- Figma plugin + design files (upcoming) 🌟
+  - Theme Builder (in beta now) 🌟
+  - Figma plugin + design files (upcoming) 🌟
 
 🌟 **Pro** gives advanced theming/design tooling and editable design assets.
 
