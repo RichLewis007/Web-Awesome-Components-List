@@ -16,14 +16,14 @@ Here I've attempted to document a comprehensive set of lists of all components i
     - [Utilities & Observers (Categorized)](#utilities--observers-categorized)
     - [QR Code](#qr-code)
     - [Key Notes](#key-notes)
-3. [🌟 **Pro** Components, Pro Patterns](#-pro-components-pro-patterns)
+3. [🌟 **Pro** Components, **Pro** Patterns](#-pro-components-pro-patterns)
     - [🌟 **Pro Components**](#-pro-components)
     - [🌟 **Pro** "Patterns"](#-pro-patterns)
         - [App Patterns 🌟](#app-patterns-)
         - [Blog & News Patterns 🌟](#blog--news-patterns-)
         - [Ecommerce Patterns 🌟](#ecommerce-patterns-)
         - [Layouts Patterns 🌟](#layouts-patterns-)
-4. [Free and 🌟 Pro Components Categorized](#free-and--pro-components-categorized)
+4. [Free and 🌟 **Pro** Components Categorized](#free-and--pro-components-categorized)
     - [Forms & Inputs](#forms--inputs)
     - [Layout & Structure](#layout--structure)
     - [Feedback & Indicators](#feedback--indicators)
@@ -174,11 +174,11 @@ From the official documentation (Components list), here's every enabled componen
 - Most have **"Since" version info** in the docs (e.g., "Since 2.0 stable").
 - Some of the newest free additions (from changelogs) include **Scroller**, **Popover**, and **Zoomable Frame**, now merged into the main list.
 
-## 🌟 **Pro** Components, Pro Patterns
+## 🌟 **Pro** Components, **Pro** Patterns
 
-Here is the alphabetical list of all current Web Awesome 🌟 **Pro** Components and Pro Patterns.
+Here is the alphabetical list of all current Web Awesome 🌟 **Pro** Components and **Pro** Patterns.
 
-Patterns are distinct from Components as they are copy/pasteable HTML and not custom HTML elements.
+Patterns are distinct from Components as they are copy/pasteable HTML and not custom HTML elements. They are able to provide some amazing new capability and add a lot to any site using the **Pro** components.
 
 [Check here for updates](https://github.com/shoelace-style/webawesome/issues?q=sort%3Aupdated-desc+is%3Aissue+state%3Aopen+label%3A%22WA+Pro%22) on the development of upcoming 🌟 **Pro** Components, such as Chart, Combobox, Data Grid, Date picker, Themer, and Google Font imports.
 
@@ -326,7 +326,7 @@ Patterns are distinct from Components as they are copy/pasteable HTML and not cu
   - App
   - Blog
 
-## Free and 🌟 Pro Components Categorized
+## Free and 🌟 **Pro** Components Categorized
 
 Here’s a **cross-mapping** of **Free vs Pro components** by category, so you can quickly see overlaps, complements, and where the Pro tier adds unique value. This is based on the official [Web Awesome Docs](https://webawesome.com/docs/) component listings.
 
