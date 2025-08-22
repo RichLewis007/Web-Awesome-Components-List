@@ -192,51 +192,54 @@ Here is the alphabetical list of all 44 current Web Awesome 🌟 **Pro** Compone
 
 ## 📑 Alphabetical List of 🌟 **Pro Components**
 
-* Action Panel
-* Activity Log
-* App (layout)
-* Banners
-* Call To Action
-* Category Filter
-* Category List
-* Category Preview
-* Checkout Form
-* Comments
-* Contact
-* Data Display
-* Description List
-* Ecommerce (layout)
-* Empty State
-* FAQ
-* Featured Post
-* Footer
-* Grid List
-* Grid Section
-* Header
-* Incentives
-* Leaderboard
-* Newsletter
-* Numbers
-* Order History
-* Order Summary
-* Pagination
-* Paywall
-* Permissions
-* Post Footer
-* Post Header
-* Post List
-* Pricing
-* Product Lists
-* Product Overview
-* Product Preview
-* Product Reviews
-* Shopping Cart
-* Sign Up & Login
-* Social Share
-* Teams
-* Testimonials
-* Theme Builder PRO (tool for creating custom themes)
+-  App (layout)
+-  Banners
+-  Call To Action
+-  Category Filter
+-  Category List
+-  Category Preview
+-  Checkout Form
+-  Contact
+-  Ecommerce (layout)
+-  Featured Post
+-  Footer
+-  Grid Section
+-  Header
+-  Incentives
+-  Newsletter
+-  Numbers
+-  Order History
+-  Order Summary
+-  Paywall
+-  Permissions
+-  Post Footer
+-  Post Header
+-  Post List
+-  Pricing
+-  Product Lists
+-  Product Overview
+-  Product Preview
+-  Product Reviews
+-  Shopping Cart
+-  Sign Up & Login
+-  Social Share
+-  Teams
+-  Testimonials
+-  Theme Builder PRO (tool for creating custom themes)
 
+## Pro Patterns
+-  Action Panel (pattern)
+-  Activity Log (pattern)
+-  Comments (pattern)
+-  Data Display (pattern)
+-  Description List (pattern)
+-  Empty State (pattern)
+-  FAQ (pattern)
+-  Grid List (pattern)
+-  Leaderboard (pattern)
+-  Pagination (pattern)
+- Password Recovery (pattern)
+- Two Factor Authentication
 ---
 
 ## 🌟 Pro Components, Categorized
