@@ -13,7 +13,8 @@ I've written up a comprehensive list of all components in the Web Awesome librar
 >**Accessibility and customization**: Designed to be accessible, fully themeable, and easily tuned to match your brand or style preferences.
 >Read more about Web Awesome here: [WebAwesome.com](https://webawesome.com/)
 
-# 🗒️ [Click here to see my writeup of the Web Awesome components](https://github.com/RichLewis007/Web-Awesome-Components-List/blob/main/Web%20Awesome%20Components%20List.md).
+# 🗒️ [Click here to see my writeup of the Web Awesome components](https://github.com/RichLewis007/Web-Awesome-Components-List/blob/main/Web-Awesome-Components-List.md).
+[Click here to see my writeup of the Web Awesome components](Web-Awesome-Components-List.md).
 
 ## ⭐ If this might be helpful to you in the future, be sure to star this repo.
 This will also lead other people to see it.
