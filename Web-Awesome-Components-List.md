@@ -1,3 +1,5 @@
+![alt text](assets/wa-components-list-header-v3-1024x300.png)
+
 # Web Awesome Components List
 
 Here I've attempted to document a comprehensive set of lists of all components in the Web Awesome library, free and pro, completed and upcoming. Lists include alphabeticized, categorized, and merged and categorized.
