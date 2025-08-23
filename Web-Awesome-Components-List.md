@@ -32,9 +32,9 @@ Here I've attempted to document a comprehensive set of lists of all components i
     - [Utilities / Observers](#utilities--observers)
     - [Design & Theming](#design--theming)
     - [Takeaways](#takeaways)
-5. [Web Awesome Free vs 🌟 Pro Components Table](#web-awesome-free-vs-pro-components-table)
+5. [Web Awesome Free vs 🌟 Pro Components Table](#web-awesome-free-vs--pro-components-table)
     - [At a Glance](#at-a-glance)
-6. [Web Awesome Free vs. 🌟 **Pro** Components Chart](#web-awesome-free-vs-pro-components-chart)
+6. [Web Awesome Free vs. 🌟 **Pro** Components Chart](#web-awesome-free-vs--pro-components-chart)
     - [Visual Chart](#visual-chart)
     - [Data Visualization & Collaboration Style Indicators (Feedback & Indicators)](#data-visualization--collaboration-style-indicators-feedback--indicators)
 
