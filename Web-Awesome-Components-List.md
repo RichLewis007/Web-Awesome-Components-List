@@ -492,7 +492,7 @@ Free gives functional DOM & format helpers.
 3. **Strategic gap**: Anything requiring **commerce, data visualization, or higher-order layouts** pushes you into Pro.
 4. **Free covers basics extremely well**; you won’t hit a wall until you need **complex data or marketing-driven UI**.
 
-## Web Awesome Free vs  🌟 Pro Components Table
+## Web Awesome Free vs 🌟 Pro Components Table
 
 Here’s a **feature matrix** — Free vs  🌟 **Pro** side-by-side. I grouped by functional domain so the gaps stand out clearly.
 
@@ -513,7 +513,7 @@ Here’s a **feature matrix** — Free vs  🌟 **Pro** side-by-side. I grouped 
 - **Overlap** is minimal — Free doesn’t get "downgraded" when Pro adds a category, they complement each other.
 - **Decision driver**: If you need **data-heavy UI** (charts, grids) or **site-level flows** (blog, ecommerce, dashboards), Pro becomes necessary.
 
-## Web Awesome Free vs.  🌟 **Pro** Components Chart
+## Web Awesome Free vs. 🌟 **Pro** Components Chart
 
 <p align="center">
   <img src="./assets/web-awesome-free-vs-pro-chart-by-category.png" alt="Web Awesome free vs Pro chart by category" width="1024">
