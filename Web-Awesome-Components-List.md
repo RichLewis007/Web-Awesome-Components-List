@@ -44,63 +44,63 @@ Here I've attempted to document a comprehensive set of lists of all components i
 
 From the official documentation (Components list), here's every enabled component without the 🌟 **Pro** label, meaning they are part of the fully open-source, free core of Web Awesome:
 
-- Animated Image
-- Animation
-- Avatar
-- Badge
-- Breadcrumb
-  - Breadcrumb Item
-- Button
-- Button Group
-- Callout
-- Card
-- Carousel
-- Carousel Item
-- Checkbox
-- Color Picker
-- Comparison
-- Copy Button
-- Details
-- Dialog
-- Divider
-- Drawer
-- Dropdown
-- Dropdown Item
-- File Input ([Free stretch goal](https://github.com/shoelace-style/webawesome/issues/1240))
-- Format Bytes
-- Format Date
-- Format Number
-- Icon
-- Include
-- Input
-- Mutation Observer
-- Popover
-- Popup
-- Progress Bar
-- Progress Ring
-- QR Code
-- Radio Group
-- Radio
-- Rating
-- Relative Time
-- Resize Observer
-- Scroller
-- Select
-- Option
-- Skeleton
-- Slider
-- Spinner
-- Split Panel
-- Switch
-- Tab Group
-- Tab
-- Tab Panel
-- Tag
-- Textarea
-- Tooltip
-- Tree
-- Tree Item
-- Zoomable Frame
+  - Animated Image
+  - Animation
+  - Avatar
+  - Badge
+  - Breadcrumb
+    - Breadcrumb Item
+  - Button
+  - Button Group
+  - Callout
+  - Card
+  - Carousel
+  - Carousel Item
+  - Checkbox
+  - Color Picker
+  - Comparison
+  - Copy Button
+  - Details
+  - Dialog
+  - Divider
+  - Drawer
+  - Dropdown
+  - Dropdown Item
+  - File Input ([Free stretch goal](https://github.com/shoelace-style/webawesome/issues/1240))
+  - Format Bytes
+  - Format Date
+  - Format Number
+  - Icon
+  - Include
+  - Input
+  - Mutation Observer
+  - Popover
+  - Popup
+  - Progress Bar
+  - Progress Ring
+  - QR Code
+  - Radio Group
+  - Radio
+  - Rating
+  - Relative Time
+  - Resize Observer
+  - Scroller
+  - Select
+  - Option
+  - Skeleton
+  - Slider
+  - Spinner
+  - Split Panel
+  - Switch
+  - Tab Group
+  - Tab
+  - Tab Panel
+  - Tag
+  - Textarea
+  - Tooltip
+  - Tree
+  - Tree Item
+  - Zoomable Frame
 
 ## Free Components, Categorized
 
