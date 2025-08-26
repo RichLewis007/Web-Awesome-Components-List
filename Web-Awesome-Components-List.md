@@ -12,33 +12,33 @@ Here I've attempted to document a comprehensive set of lists of all components i
 
 1. [Free Components, Alphabetical](#free-components-alphabetical)
 2. [Free Components, Categorized](#free-components-categorized)
-    - [Form Controls](#form-controls)
-    - [Layout & Structure (Categorized)](#layout--structure-categorized)
-    - [Feedback & Indicators (Categorized)](#feedback--indicators-categorized)
-    - [Utilities & Observers (Categorized)](#utilities--observers-categorized)
-    - [QR Code](#qr-code)
-    - [Key Notes](#key-notes)
+  - [Form Controls](#form-controls)
+  - [Layout & Structure (Categorized)](#layout--structure-categorized)
+  - [Feedback & Indicators (Categorized)](#feedback--indicators-categorized)
+  - [Utilities & Observers (Categorized)](#utilities--observers-categorized)
+  - [QR Code](#qr-code)
+  - [Key Notes](#key-notes)
 3. [🌟 **Pro** Components & **Pro** Patterns](#-pro-components--pro-patterns)
-    - [🌟 **Pro Components**](#-pro-components)
-    - [🌟 **Pro** "Patterns"](#-pro-patterns)
-        - [App Patterns 🌟](#app-patterns-)
-        - [Blog & News Patterns 🌟](#blog--news-patterns-)
-        - [Ecommerce Patterns 🌟](#ecommerce-patterns-)
-        - [Layouts Patterns 🌟](#layouts-patterns-)
+  - [🌟 **Pro Components**](#-pro-components)
+  - [🌟 **Pro** "Patterns"](#-pro-patterns)
+      - [App Patterns 🌟](#app-patterns-)
+      - [Blog & News Patterns 🌟](#blog--news-patterns-)
+      - [Ecommerce Patterns 🌟](#ecommerce-patterns-)
+      - [Layouts Patterns 🌟](#layouts-patterns-)
 4. [Free and 🌟 **Pro** Components Categorized](#free-and--pro-components-categorized)
-    - [Forms & Inputs](#forms--inputs)
-    - [Layout & Structure](#layout--structure)
-    - [Feedback & Indicators](#feedback--indicators)
-    - [Content & Blog / News](#content--blog--news)
-    - [Commerce](#commerce)
-    - [Utilities / Observers](#utilities--observers)
-    - [Design & Theming](#design--theming)
-    - [Takeaways](#takeaways)
+  - [Forms & Inputs](#forms--inputs)
+  - [Layout & Structure](#layout--structure)
+  - [Feedback & Indicators](#feedback--indicators)
+  - [Content & Blog / News](#content--blog--news)
+  - [Commerce](#commerce)
+  - [Utilities / Observers](#utilities--observers)
+  - [Design & Theming](#design--theming)
+  - [Takeaways](#takeaways)
 5. [Web Awesome Free vs 🌟 Pro Components Table](#web-awesome-free-vs--pro-components-table)
-    - [At a Glance](#at-a-glance)
+  - [At a Glance](#at-a-glance)
 6. [Web Awesome Free vs. 🌟 **Pro** Components Chart](#web-awesome-free-vs--pro-components-chart)
-    - [Visual Chart](#visual-chart)
-    - [Data Visualization & Collaboration Style Indicators (Feedback & Indicators)](#data-visualization--collaboration-style-indicators-feedback--indicators)
+  - [Visual Chart](#visual-chart)
+  - [Data Visualization & Collaboration Style Indicators (Feedback & Indicators)](#data-visualization--collaboration-style-indicators-feedback--indicators)
 
 ## Free Components, Alphabetical
 
@@ -105,36 +105,36 @@ From the official documentation (Components list), here's every enabled componen
 ## Free Components, Categorized
 
 ### Form Controls
-- Button
-- Button Group
-- Checkbox
-- Color Picker
-- Copy Button
-- Input
-- Radio Group
-  - Radio
-- Select
-  - Option
-- Slider
-- Switch
-- Textarea
-- File Input ([Free stretch goal](https://github.com/shoelace-style/webawesome/issues/1240))
+  - Button
+  - Button Group
+  - Checkbox
+  - Color Picker
+  - Copy Button
+  - Input
+  - Radio Group
+    - Radio
+  - Select
+    - Option
+  - Slider
+  - Switch
+  - Textarea
+  - File Input ([Free stretch goal](https://github.com/shoelace-style/webawesome/issues/1240))
 
 ### Layout & Structure (Categorized)
-- Avatar
-- Breadcrumb
-  - Breadcrumb Item
-- Card
-- Carousel
-  - Carousel Item
-- Divider
-- Drawer
-- Split Panel
-- Tab Group
-  - Tab
-  - Tab Panel
-- Tree
-  - Tree Item
+  - Avatar
+  - Breadcrumb
+    - Breadcrumb Item
+  - Card
+  - Carousel
+    - Carousel Item
+  - Divider
+  - Drawer
+  - Split Panel
+  - Tab Group
+    - Tab
+    - Tab Panel
+  - Tree
+    - Tree Item
 
 ### Feedback & Indicators (Categorized)
 - Badge
