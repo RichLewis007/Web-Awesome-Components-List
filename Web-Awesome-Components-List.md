@@ -42,7 +42,7 @@ Here I've attempted to document a comprehensive set of lists of all components i
 
 ## Free Components, Alphabetical
 
-From the official documentation (Components list), here's every enabled component without the 🌟 **Pro** label, meaning they are part of the fully open-source, free core of Web Awesome:
+Pulled from the official documentation (Components list), here's every enabled component without the 🌟 **Pro** label, meaning they are part of the fully open-source, free core of Web Awesome:
 
   - Animated Image
   - Animation
