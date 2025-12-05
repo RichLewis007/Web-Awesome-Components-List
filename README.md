@@ -1,7 +1,7 @@
 ![Web Awesome Components List](assets/web-awesome-components-list-v3-1024.png)
 
 # Web Awesome Components List
-Updated: 2025-11-05
+Updated: 2025-12-04
 
 I've written up a comprehensive list of all components in the Web Awesome library, both Free and Pro, completed and upcoming. I've put them in several lists which include the components alphabeticized, categorized, and merged and categorized. You can also get them Scattered, Smothered, Covered, Chunked, Diced, Peppered, Capped, Topped, or Country. If you order the extra Pro components, you can have them "All The Way!" [‡](#page-notes) 
 
